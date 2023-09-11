@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         Cookie Clicker hack
+// @name         C00K1E CL1cker
 // @namespace    https://greasyfork.org/ru/scripts/392425-cookie-clicker-hack
 // @version      1.5
 // @license      MIT
 // @description  Just a cookie clicker hack.
-// @author       hasha2982
+// @author       Brizzy2k
 // @match        *://orteil.dashnet.org/cookieclicker/*
 // @match        *://orteil.dashnet.org/cookieclicker/
 // @grant        none
 // ==/UserScript==
-
+// NOTE: Press H to use hacks
 // NOTE: Don't works in IE!
 
 console.log('[== Starting hack... ==]');
